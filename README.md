@@ -34,6 +34,7 @@
 - 🗄️ **SQL**  
 - 🌐 **Streamlit**  
 
+---
 
 📫 **Contact/ Contacto**  
 - ✉️ jaa1018@alu.ubu.es
